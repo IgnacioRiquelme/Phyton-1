@@ -15,4 +15,4 @@ for i in range(len(palabra)):
         consonantes += palabra[i]
         print(f"La letra {palabra[i]} se encuentra en la posición {i}")
         
-print(consonantes)     
+print(consonantes)
